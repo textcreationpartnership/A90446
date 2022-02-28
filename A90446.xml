@@ -1,0 +1,134 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The People of Scotland's groans and lamentable complaints, pour'd out before the High Court of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90446</idno>
+            <idno type="STC">Wing P1444A</idno>
+            <idno type="STC">ESTC R181648</idno>
+            <idno type="EEBO-CITATION">45097891</idno>
+            <idno type="OCLC">ocm 45097891</idno>
+            <idno type="VID">171470</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90446)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171470)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2575:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The People of Scotland's groans and lamentable complaints, pour'd out before the High Court of Parliament.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Politics and government, --  1689-1745.</term>
+               <term>Scotland --  Economic conditions.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:171470:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 56 -->
+            <pb facs="tcp:171470:2"/>
+            <!-- PDF PAGE 57 -->
+            <head>The People of <hi>SCOTLAND</hi>'s Groans and Lamentable Complaints, Pour'd out before the High Court of <hi>Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+            </head>
+            <p>THE People of <hi>Scotland,</hi> moſt Illuſtrious Patriots, like Children in a great meaſure depriv'd of the Kindneſs and Protection of One of their Parents, have Recourſe to you as the Other. When one Parent is dead, or un<g ref="char:EOLhyphen"/>der a moral Incapacity of performing Their part, if the Other prove un<g ref="char:EOLhyphen"/>natural or negligent, the Poor Children muſt unavoidably be Undone. The People of this Kingdom, whom you Repreſent, have been depriv'd of the Benign Influences of our Kings theſe 100 years. Our Neighbours having the Political Fathers of our Country, under their Command, are ſo far from leaving them at Liberty to Treat Us as Subjects and Children, that they have from time to time made 'em Treat Us like Enemies; but never more than at preſent, as is obvious to all the World, to Our great Loſs and Diſhonour.</p>
+            <p>We have no other Remedy left Us then, moſt Noble Repreſentatives, but to proſtrate Our Selves at Your Feet, and to throw Our Selves into your Arms, as thoſe of Our Other Parent, humbly imploring, nay Conjuring You by all that is Sacred, and by the Honour of the SCOTTISH Name, that You<g ref="char:punc">▪</g> would not ſuf<g ref="char:EOLhyphen"/>fer this Ancient and Gallant Nation to be ſo much Contemn'd and Injur'd. We beg of You to conſider, how Our Soveraignty and Freedom is Violated, Our Laws trampled upon, and our Trade interrupted; how Our Brethren have been Star<g ref="char:EOLhyphen"/>ved and made Slaves, Our Colony deſerted, and Our Ships burnt and loſt A<g ref="char:EOLhyphen"/>broad; whilſt Our Petitions have been rejected, Our Company baffled, Our People Famiſh'd, Our Metropolis burnt, and ſlames of Diviſion kindled amongſt Us at Home. We intreat You to conſider, how they that ought in Kindneſs, nay in Gratitude, to have let Us had Proviſions for Our Money, whilſt they enjoyed Plenty, and ought to have Protected Us with their Ships, ſince We are under one Sovereign, and have loſt ſo many Men in their Service by Sea and Land, ſuffered Us to die for Want, and would not let Us have the Uſe of Our own Friggots, that were built at Our own Charge. We muſt beg You to take into Your moſt Seri<g ref="char:EOLhyphen"/>ous Thoughts, how Your own Authority hath been trod under Foot, Your Acts Violated, Your Addreſs ſlighted, and the Company of Your Eſtabliſhment Op<g ref="char:EOLhyphen"/>pos'd and Oppreſs'd. We pray You to Remember, how Promiſes made You to advance Our Trade, have been broke; how thoſe to Our Company have been falſified; and how <hi>Engliſh</hi> Miniſters have had Private Orders to act contrary to thoſe Promiſes. We beſeech You to Remember, how a Petition for delivering from Slavery, Gentlemen Related to ſo many of Your Families, <hi>&amp;c.</hi> was ſlight<g ref="char:EOLhyphen"/>ed and oppos'd; How Our Liberty of a National Petition for Calling You to<g ref="char:EOLhyphen"/>gether, Moſt Illuſtrious Repreſentatives, to Redreſs Our National Grievances, was invaded and traduced: How Your Meeting has been unreaſonably adjourn<g ref="char:EOLhyphen"/>ed from time to time, tho the Bleeding Honour and Intereſt of Our Nation call'd aloud for a preſent Remedy.</p>
+            <p>We beg of You with Tears, as You tender the Honour and Welfare of this Ancient Kingdom, to undeceive His Majeſty, who by His Anſwer to Our Com<g ref="char:EOLhyphen"/>miſſioners ſeems to have been inform'd, <hi>that Your Sentiments, and thoſe of the Na<g ref="char:EOLhyphen"/>tion expreſs'd in Our Petition, would not be the ſame.</hi>
+            </p>
+            <p>We hope you will conſider the Diſhonour put upon your Selves, by the effectual Anſwers given to the Addrreſſes of a Neighbouring Parliament, whilſt yours is un<g ref="char:EOLhyphen"/>regarded; and that you will aſſert the Liberties of this Injur'd Nation, againſt the
+<pb n="2" facs="tcp:171470:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 58 -->Inſolence and Oppreſſions of Ungrateful Neighbours: Conſider the Noble At<g ref="char:EOLhyphen"/>chievements of our Anceſtors, in defience of our Freedom and Honour. May it never be ſaid, we are ſo much degenerated, as meanly to part with thoſe Jewels which they purchaſed for us with the Price of their Blood. And much leſs, that thoſe who falſly reproached us with ſelling our King, ſhould have juſt grounds to tell us, that any of our Repreſentatives ſold our Country. Let not this Na<g ref="char:EOLhyphen"/>tion, that they could never Conquer by their Swords, be ingloriouſly ſubdued by their Money.</p>
+            <p>We muſt leave it with You, moſt Noble Patriots, to take Care, that no ſuch <hi>Judas</hi>'s bring a perpetual Infamy upon the Parliaments of <hi>Scotland.</hi> May the very Aſpect of your Auguſt Aſſembly prove their Bane; may it force them to confeſs their Treaſonable Crime, in betraying our Blood and Honour; may they after<g ref="char:EOLhyphen"/>wards go to their deſerved Place; and may their Poſts be fill'd with Honeſter-Men.</p>
+            <p>We muſt in the laſt place humbly beſeech You, to prevent our being further impoveriſh'd and enſlav'd, by a ſtanding Army in time of Peace. We have the ſame Love for our Country that our Anceſtors had, and are as willing to defend it as they, without mercinary Troops. Let us all be Arm'd and Diſciplin'd as they were, and then we ſhall ſoon make good our Motto of <hi>Nemo me impune Laceſſet:</hi> Our fore-fathers did wonders without ſtanding Armys, and that we have not loſt our Native Courage, is evident from what our undiſciplin'd Men did, both here and in <hi>Ireland,</hi> ſince the Revolution.</p>
+            <p>Let not a Nation then, who formerly ſpread the Glory of their Arms al<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> over <hi>Europe,</hi> be diſpirited under the Bondage of a Foreign Court. Let not that Blood, that formerly us'd to gather Lawrels in the field of Battle, and rais'd the Honour of our Country, be ſo prodigally ſpilt in Quarrels of other Nations that make us ſuch Ingrateful Returns. May Heaven inſpire Your Auguſt Aſſembly with proper Methods to deliver us from being Oppreſs'd at home and Deſpis'd abroad. May you be Bleſs'd to improve the preſent Opportunity of ſo doing, which if loſt the like is not to be again expected; And as you have had the Honour to begin and advance our Deliverance, may you have the Glory to Compleat it, and to ren<g ref="char:EOLhyphen"/>der your Memory Sacred to all ſucceeding Ages.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
